@@ -1,0 +1,187 @@
+# Copyright (C) 2016 WP Developer's Toolbox
+# This file is distributed under the same license as the WP Developer's Toolbox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Developer's Toolbox 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-developers-"
+"toolbox\n"
+"POT-Creation-Date: 2016-01-10 13:58:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: db_backup.php:71
+msgid "Export complete!"
+msgstr ""
+
+#: db_backup.php:72
+msgid "File Path : "
+msgstr ""
+
+#: db_backup.php:73
+msgid ""
+"(Direct access is disabled with .htaccess for security - please use FTP / "
+"SSH to download)"
+msgstr ""
+
+#: db_backup.php:81
+msgid ""
+"Click the Export button below to export every table in the current database, "
+"to a .sql file."
+msgstr ""
+
+#: db_backup.php:81
+msgid " The file also includes “DROP TABLE IF EXISTS” for quick importing."
+msgstr ""
+
+#: db_backup.php:83
+msgid "Export"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WP Developer's Toolbox 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: options-page-wrapper.php:11 wp-debug-switcher.php:224
+msgid "WP Developer's Toolbox"
+msgstr ""
+
+#: options-page-wrapper.php:18
+msgid "Read Web Technology - WordPress developer's toolbox"
+msgstr ""
+
+#: options-page-wrapper.php:20
+msgid ""
+"It is advised you only use these settings within a development environment "
+"and not production."
+msgstr ""
+
+#: options-page-wrapper.php:21
+msgid ""
+"Please note that these settings will not overrule some other error reporting "
+"configurations, for example on your system or using WP_DEBUG - see :"
+msgstr ""
+
+#: options-page-wrapper.php:28
+msgid "Debug Mode - display errors : "
+msgstr ""
+
+#: options-page-wrapper.php:31 options-page-wrapper.php:52
+msgid "On"
+msgstr ""
+
+#: options-page-wrapper.php:33 options-page-wrapper.php:54
+msgid "Off (Defalut)"
+msgstr ""
+
+#: options-page-wrapper.php:38
+msgid "Display errors to logged in admin users only :"
+msgstr ""
+
+#: options-page-wrapper.php:41
+msgid "On (Defalut)"
+msgstr ""
+
+#: options-page-wrapper.php:43
+msgid "Off (Not recomended in production)"
+msgstr ""
+
+#: options-page-wrapper.php:48
+msgid "Print errors to a log file : "
+msgstr ""
+
+#: options-page-wrapper.php:57
+msgid " Click here to open the debug log file in a new tab"
+msgstr ""
+
+#: options-page-wrapper.php:63
+msgid "Delete log file : "
+msgstr ""
+
+#: options-page-wrapper.php:66
+msgid "Delete log file (Can not be undone!)"
+msgstr ""
+
+#: options-page-wrapper.php:72
+msgid ""
+"Rename plugins directory : <br> To quickly see if there is an error in the "
+"plugins folder."
+msgstr ""
+
+#: options-page-wrapper.php:75
+msgid ""
+"Rename /plugins to /plugins.original - Warning! This will disable all of "
+"your plugins. Ensure you have access to rename it back again."
+msgstr ""
+
+#: options-page-wrapper.php:81
+msgid "Hide WP Admin bar on the front end, when a user is logged in : "
+msgstr ""
+
+#: options-page-wrapper.php:84
+msgid "Show (Defalut)"
+msgstr ""
+
+#: options-page-wrapper.php:86
+msgid "Hide"
+msgstr ""
+
+#: options-page-wrapper.php:91
+msgid "Save"
+msgstr ""
+
+#: wp-debug-switcher.php:52
+msgid "ON"
+msgstr ""
+
+#: wp-debug-switcher.php:53
+msgid "OFF"
+msgstr ""
+
+#: wp-debug-switcher.php:54
+msgid "SHOW"
+msgstr ""
+
+#: wp-debug-switcher.php:55
+msgid "HIDE"
+msgstr ""
+
+#: wp-debug-switcher.php:71
+msgid "Developer's Toolbox"
+msgstr ""
+
+#: wp-debug-switcher.php:72
+msgid "Developer's Toolbox : Options"
+msgstr ""
+
+#: wp-debug-switcher.php:73
+msgid "Toggle Debug Mode : "
+msgstr ""
+
+#: wp-debug-switcher.php:74
+msgid "Toggle WP Admin Bar to: "
+msgstr ""
+
+#: wp-debug-switcher.php:225 wp-debug-switcher.php:235
+msgid "System Info"
+msgstr ""
+
+#: wp-debug-switcher.php:226 wp-debug-switcher.php:248
+msgid "Database Export"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (WP Developer's Toolbox 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (WP Developer's Toolbox 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://readwebtechnology.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WP Developers Toolbox"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "James Read"
+msgstr ""
